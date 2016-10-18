@@ -1,0 +1,19 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "cbe5f7ef-5f6b-47d7-be69-64ac6cc7cbf1"
+  core:
+    projectHome: "/Users/Alpha/Dev"
+  editor:
+    fontSize: 12
+    tabLength: 4
+  "exception-reporting":
+    userId: "90adac9a-6df9-867a-42ad-195532de965c"
+  minimap:
+    plugins:
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
